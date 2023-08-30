@@ -1,5 +1,5 @@
 void main() {
-  Persona persona = Persona('Flor', 27, '987654321');
+  Persona persona = Persona('Flor', 23, '984091374');
   persona.mostrar();
   print('Es mayor de edad: ${persona.esMayorDeEdad()}');
 }
