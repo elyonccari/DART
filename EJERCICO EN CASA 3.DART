@@ -1,6 +1,6 @@
 void main() {
-  Cuenta cuenta1 = Cuenta(nombre: 'Ronal', dni: '12345678', cantidad: 1000);
-  Cuenta cuenta2 = Cuenta(nombre: 'María', dni: '87654321', cantidad: 1500);
+  Cuenta cuenta1 = Cuenta(nombre: 'ELYON', dni: '76922736', cantidad: 1000);
+  Cuenta cuenta2 = Cuenta(nombre: 'FLOR', dni: '24988364', cantidad: 1500);
 
   cuenta1.transferencia(cuenta2, 500);
 
