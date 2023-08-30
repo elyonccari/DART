@@ -1,6 +1,6 @@
 
 void main() {
-  Cuenta cuenta = Cuenta('Ronaldo Flores', 100.0);
+  Cuenta cuenta = Cuenta('ELYON CCARI', 100.0);
   cuenta.mostrar();
   cuenta.ingresar(50.0);
   cuenta.retirar(30.0);
