@@ -1,6 +1,6 @@
 void main(){
    // Se Crea una cuenta con titular y una cantidad inicial de 5000 soles
-  Cuenta cuenta = Cuenta('Ronaldo Flores', 0);
+  Cuenta cuenta = Cuenta('ELYON CCARI', 0);
   cuenta.mostrarDetalles();
   // Realizar operaciones de ingreso y retiro
   cuenta.ingresar(1000);
